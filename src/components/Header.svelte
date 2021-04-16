@@ -16,7 +16,7 @@
             .logo {
                 width: 80px;
 
-                opacity: 0.5;
+                opacity: 0;
             }
         }
     }
