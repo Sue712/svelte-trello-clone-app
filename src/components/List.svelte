@@ -59,6 +59,7 @@
 <style lang="scss">
     .list {
         //수평으로 쌓이면서 크기도 가질 수 있는  inline-block
+        word-break: break-all;
         display: inline-block;
         white-space: normal;
         width: 290px;
